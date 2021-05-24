@@ -1,0 +1,254 @@
+[
+  {
+    "MeasurementID": 2036985,
+    "Value": 29.77,
+    "MeasuredAt": "2021-05-01T00:00:01",
+    "CreatedAt": "2021-05-03T01:36:21.107",
+    "MeasurementCreationMethodType": 2,
+    "MeterStatusHistoryID": 1469250,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2036983,
+    "Value": 29.945,
+    "MeasuredAt": "2021-05-02T04:15:00",
+    "CreatedAt": "2021-05-03T01:36:21.06",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 1469250,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2043937,
+    "Value": 30.182,
+    "MeasuredAt": "2021-05-04T20:37:00",
+    "CreatedAt": "2021-05-05T01:36:12.157",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 1474895,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2050872,
+    "Value": 30.309,
+    "MeasuredAt": "2021-05-06T19:06:00",
+    "CreatedAt": "2021-05-07T01:36:31.393",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 1480456,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2057959,
+    "Value": 30.427,
+    "MeasuredAt": "2021-05-08T21:00:00",
+    "CreatedAt": "2021-05-09T01:37:07.26",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 1486803,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2064150,
+    "Value": 30.516,
+    "MeasuredAt": "2021-05-10T20:48:00",
+    "CreatedAt": "2021-05-11T01:37:15.52",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 1492226,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2074092,
+    "Value": 30.62,
+    "MeasuredAt": "2021-05-12T20:02:00",
+    "CreatedAt": "2021-05-14T01:37:15.563",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 1501018,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2086245,
+    "Value": 30.724,
+    "MeasuredAt": "2021-05-14T23:59:59",
+    "CreatedAt": "2021-05-16T01:37:50.517",
+    "MeasurementCreationMethodType": 2,
+    "MeterStatusHistoryID": 1506723,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2086246,
+    "Value": 30.724,
+    "MeasuredAt": "2021-05-15T00:00:01",
+    "CreatedAt": "2021-05-16T01:37:50.517",
+    "MeasurementCreationMethodType": 2,
+    "MeterStatusHistoryID": 1506723,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2086244,
+    "Value": 30.731,
+    "MeasuredAt": "2021-05-15T03:17:00",
+    "CreatedAt": "2021-05-16T01:37:50.513",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 1506723,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2094204,
+    "Value": 30.808,
+    "MeasuredAt": "2021-05-16T20:22:00",
+    "CreatedAt": "2021-05-18T01:36:38.933",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 1512421,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2100716,
+    "Value": 30.934,
+    "MeasuredAt": "2021-05-19T03:04:00",
+    "CreatedAt": "2021-05-20T01:36:41.34",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 1518118,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2107294,
+    "Value": 31.061,
+    "MeasuredAt": "2021-05-21T03:45:00",
+    "CreatedAt": "2021-05-22T01:37:42.573",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 1523862,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2113810,
+    "Value": 31.265,
+    "MeasuredAt": "2021-05-23T04:14:00",
+    "CreatedAt": "2021-05-24T01:36:30.787",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 1529584,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 760805,
+    "Value": 8.839,
+    "MeasuredAt": "2020-05-01T00:00:01",
+    "CreatedAt": "2020-05-03T01:26:44.383",
+    "MeasurementCreationMethodType": 2,
+    "MeterStatusHistoryID": 545268,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 760803,
+    "Value": 8.904,
+    "MeasuredAt": "2020-05-02T04:04:00",
+    "CreatedAt": "2020-05-03T01:26:44.38",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 545268,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 766752,
+    "Value": 9.006,
+    "MeasuredAt": "2020-05-04T04:33:00",
+    "CreatedAt": "2020-05-05T01:26:43.457",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 550036,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 772003,
+    "Value": 9.112,
+    "MeasuredAt": "2020-05-06T03:41:00",
+    "CreatedAt": "2020-05-07T01:26:17.373",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 554710,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 777483,
+    "Value": 9.206,
+    "MeasuredAt": "2020-05-08T04:46:00",
+    "CreatedAt": "2020-05-09T01:26:11.523",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 559605,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 782727,
+    "Value": 9.306,
+    "MeasuredAt": "2020-05-10T07:55:00",
+    "CreatedAt": "2020-05-11T01:26:15.55",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 564257,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 788153,
+    "Value": 9.421,
+    "MeasuredAt": "2020-05-12T09:08:00",
+    "CreatedAt": "2020-05-13T01:26:26.76",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 569131,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 793707,
+    "Value": 9.574,
+    "MeasuredAt": "2020-05-14T08:48:00",
+    "CreatedAt": "2020-05-15T01:26:26.29",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 573958,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 809957,
+    "Value": 9.611,
+    "MeasuredAt": "2020-05-14T23:59:59",
+    "CreatedAt": "2020-05-17T01:26:10.943",
+    "MeasurementCreationMethodType": 2,
+    "MeterStatusHistoryID": 581434,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 809958,
+    "Value": 9.611,
+    "MeasuredAt": "2020-05-15T00:00:01",
+    "CreatedAt": "2020-05-17T01:26:10.947",
+    "MeasurementCreationMethodType": 2,
+    "MeterStatusHistoryID": 581434,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 809956,
+    "Value": 9.687,
+    "MeasuredAt": "2020-05-16T07:49:00",
+    "CreatedAt": "2020-05-17T01:26:10.94",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 581434,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 816004,
+    "Value": 9.896,
+    "MeasuredAt": "2020-05-18T09:08:00",
+    "CreatedAt": "2020-05-19T01:26:18.823",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 586519,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 822475,
+    "Value": 9.959,
+    "MeasuredAt": "2020-05-20T07:55:00",
+    "CreatedAt": "2020-05-21T01:26:07.313",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 591587,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 831162,
+    "Value": 10.101,
+    "MeasuredAt": "2020-05-22T23:35:00",
+    "CreatedAt": "2020-05-24T01:26:10.857",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 599220,
+    "SignalID": 18290
+  }
+]

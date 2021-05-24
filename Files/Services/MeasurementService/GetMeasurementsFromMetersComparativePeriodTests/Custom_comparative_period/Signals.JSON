@@ -1,0 +1,16 @@
+[
+  {
+    "SignalID": 18290,
+    "Unit": "m3",
+    "Tariff": 0,
+    "SubUnit": 0,
+    "StorageNumber": 0,
+    "SignalIndex": 0,
+    "SignalSubIndex": 0,
+    "SignalIndexType": 1,
+    "MeterID": 1533,
+    "MeterTemplateSignalGUID": "9e6d1a44-9fbe-4ab7-8bad-ed8bfe3bd2f9",
+    "SignalType": 1,
+    "StoreSignalMeasurements": true
+  }
+]
