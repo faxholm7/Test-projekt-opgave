@@ -1,0 +1,20 @@
+[
+  {
+    "MeasurementID": 2113810,
+    "Value": 31.265,
+    "MeasuredAt": "2021-05-23T04:14:00",
+    "CreatedAt": "2021-05-24T01:36:30.787",
+    "MeasurementCreationMethodType": 0,
+    "MeterStatusHistoryID": 1529584,
+    "SignalID": 18290
+  },
+  {
+    "MeasurementID": 2036984,
+    "Value": 29.77,
+    "MeasuredAt": "2021-04-30T23:59:59",
+    "CreatedAt": "2021-05-03T01:36:21.093",
+    "MeasurementCreationMethodType": 2,
+    "MeterStatusHistoryID": 1469250,
+    "SignalID": 18290
+  }
+]
